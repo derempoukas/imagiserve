@@ -1,6 +1,4 @@
-This is a multithreaded server that serves images directly to your browser.So it is a web enabled image browsing software. This was a part of my experimenting with QT not an actual production software. 
+This is a multithreaded server that serves images directly to your browser.It is essentially a web based image browsing software. This was a part of my experimenting with QT and it is by no means an actual production software.
 
 You need QT framework in order to build this one, there are not other non standard libraries used.
 Currently it builds on windows , have not tried yet linux but  it seems it is not going to be a problem .
-
-
